@@ -1,4 +1,4 @@
-# LowLatencyCloudStreaming
+# Low Latency Cloud Streaming
 
 For streaming, RaspberryPi camera with its camera module is used. The streaming test was performed on the laptop with its webcam. Though we can achieve very low latency stream across same router connected 
 devices, getting low latency for global streaming is a bit tough.
